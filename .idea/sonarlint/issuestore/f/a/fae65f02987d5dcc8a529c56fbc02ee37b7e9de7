@@ -1,0 +1,9 @@
+
+J
+java:S1611"/Remove the parentheses around the "x" parameter(ıÇÚ´ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ıÇÚ´ıÿÿÿÿ
+1
+java:S3626$"Remove this redundant jump.(ûÁİ…
+n
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(­²õ"
+a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‚ˆ
