@@ -1,0 +1,7 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ
+2
+java:S1116#"Remove this empty statement.(ĞÖ¸
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(„àµØúÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ğ˜¦“øÿÿÿÿ

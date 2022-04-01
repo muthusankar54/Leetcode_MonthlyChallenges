@@ -1,0 +1,9 @@
+
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(®ýáëûÿÿÿÿ
+h
+java:S37764"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ä¿‹ñ
+=
+java:S1659<""Declare "last" on a separate line.(¾‹î‡ýÿÿÿÿ
+f	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÒ“Þ
+f	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÒ“Þ
+f	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’†¿Á
